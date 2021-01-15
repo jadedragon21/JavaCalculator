@@ -2,7 +2,6 @@ package com.tts;
 import java.util.*;
 import static java.lang.Math.*;
 
-
 public class Calculator {
 
     public static int add(int num1, int num2) {
@@ -24,5 +23,4 @@ public class Calculator {
     public static int square(int num1) {
         return num1 * num1;
     }
-
 }

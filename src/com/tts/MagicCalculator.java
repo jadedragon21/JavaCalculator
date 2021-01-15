@@ -3,12 +3,6 @@ import java.lang.Math;
 
 public class MagicCalculator extends Calculator {
 
-// driver code
-//    public static void main(String args])
-
-
-//        int num1 = 30;
-//        double fact = 1;
     public static double squareRoot(int num1) {
         return Math.sqrt(num1);
     }
@@ -35,3 +29,12 @@ public class MagicCalculator extends Calculator {
 
     }
 }
+
+
+
+
+//cleaning up unused code:
+//driver code
+//public static void main(String args])
+//int num1 = 30;
+//double fact = 1;
