@@ -21,6 +21,9 @@ public class Calculator {
     }
 
     public static int square(int num1) {
-        return num1 * num1;
+        return num1 * num1; }
+
+    public static int percent(double num1, double num2) {
+        return (int) ((num1 / num2)*100); }
+
     }
-}

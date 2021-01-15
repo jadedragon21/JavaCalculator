@@ -16,9 +16,13 @@ public class MagicCalculator extends Calculator {
     }
 
     public static double tangent(int num1) {
-        return Math.tan(num1);
+        return Math.tan(num1);}
 
-    }
+    public static double power(int num1) {
+        return Math.pow(10,num1);}
+
+    public static double reciprocal(int num1) {
+        return Math.pow(num1, -1);}
 
     public static int factorial(int num1) {
         int fact = 1;
