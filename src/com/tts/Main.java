@@ -10,7 +10,7 @@ public class Main {
         int num2 = 2;
 
         System.out.println("Welcome to the Calculator Plus\n" + "{Num1 = 4 , Num2 = 2} \n" + "Have Fun!\n");
-        
+
         //Calc Class Prints
 
         //Addition
